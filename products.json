@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cute Notebook",
+    "category": "Stationery",
+    "brand": "Aroma Pages",
+    "price": 199,
+    "stock": 100,
+    "description": "Aesthetic notebook with soft pastel cover, smooth pages, perfect for journaling and notes.",
+    "image": "/images/image01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pastel Pen Set",
+    "category": "Stationery",
+    "brand": "Aroma Pages",
+    "price": 149,
+    "stock": 150,
+    "image": "/images/image02.jpg",
+    "description": "Set of colorful pastel pens with smooth ink flow, perfect for notes, doodles, and creative writing."
+  },
+  {
+    "id": 3,
+    "name": "Cute Study Kit",
+    "category": "Stationery Kit",
+    "brand": "Aroma Pages",
+    "price": 299,
+    "stock": 80,
+    "image": "/images/image03.jpeg",
+    "description": "All-in-one cute study kit including mini notebook, stickers, pen, and bookmarks."
+  },
+  {
+    "id": 4,
+    "name": "Scented Candle",
+    "category": "Decor",
+    "brand": "Aroma Pages",
+    "price": 249,
+    "stock": 60,
+    "image": "/images/image04.jpg",
+    "description": "Relaxing scented candle with soft fragrance, perfect for study vibes and cozy atmosphere."
+  },
+  {
+    "id": 5,
+    "name": "Sticker Pack",
+    "category": "Accessories",
+    "brand": "Aroma Pages",
+    "price": 99,
+    "stock": 200,
+    "image": "/images/image05.jpg",
+    "description": "Cute aesthetic sticker pack to decorate your notebooks, laptop, and journals."
+  },
+  {
+    "id": 6,
+    "name": "Desk Organizer",
+    "category": "Study Essentials",
+    "brand": "Aroma Pages",
+    "price": 349,
+    "stock": 40,
+    "image": "/images/image06.jpg",
+    "description": "Stylish desk organizer to keep your stationery neat, clean, and aesthetic."
+  }
+]
